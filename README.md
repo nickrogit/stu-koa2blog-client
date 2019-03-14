@@ -10,8 +10,8 @@
 2、官网反馈及更新速度快（较其他多端框架），建立了插件市场，已支持7个端；
 3、app支持完善（较其他多端框架）,团队本身原来就是做HTML+的，算成熟了。复杂的底层支持还需加强。
 4、完善的模板，小白也能入手，扫码体验。
-![7端](https://nickrogit.github.io/image/uniapp.png)
-![功能框架图](https://nickrogit.github.io/image/uni0124.png)
+![7端](./image/uniapp.png)
+![功能框架图](./image/uni0124.png)
 
 ## 服务端+后台端+C端
 
