@@ -11,7 +11,7 @@
 - 官网反馈及更新速度快（较其他多端框架），建立了插件市场，已支持7个端；
 - app支持完善（较其他多端框架）,团队本身原来就是做HTML+的，算成熟了。复杂的底层支持还需加强。
 - 完善的模板，小白也能入手，扫码体验。
-https://uniapp.dcloud.io/，
+https://uniapp.dcloud.io/
 ![7端](./image/uniapp.png)
 ![功能框架图](./image/uni0124.png)
 
@@ -22,3 +22,8 @@ https://uniapp.dcloud.io/，
 后台管理B端：https://github.com/nickrogit/stu-koa2blog-admin (vue + iview)
 
 多平台C端：https://github.com/nickrogit/stu-koa2blog-client (uni-app)
+
+## 赞赏
+　　　　　　　　　　　　☺ 赞赏一杯咖啡 ♨
+
+![赞赏](https://nickrogit.github.io/image/pay.png)
