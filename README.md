@@ -1,5 +1,5 @@
 # stu-koa2blog-client
-多平台框架开发的C端（基于koa2搭建服务的博客系统C端）
+uni-app多端框架开发的C端（基于koa2搭建服务的博客系统C端）
 
 # 说明
 计划中，将采用多端开发框架uni-app或taro
